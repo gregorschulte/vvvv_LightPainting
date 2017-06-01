@@ -5,5 +5,9 @@
 # Dynamic plugins .dll
 bin/
 
-#.png images
+# ignore .png images
 *.png
+# except screenshot
+!preview.png
+
+
